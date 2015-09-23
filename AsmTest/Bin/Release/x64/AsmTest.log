@@ -1,0 +1,22 @@
+﻿La génération a démarré 16/12/2012 19:33:41.
+     1>Projet "E:\Visual Studio\Projects\Programs\64sh\AsmTest\AsmTest.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Création de "E:\Visual Studio\Projects\Programs\64sh\AsmTest\\Bin\Release\x64\AsmTest.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W1 /WX- /MP /O2 /Ob2 /Oi /Ot /Oy /GL /Gm- /EHsc /MD /GS- /fp:precise /Zc:wchar_t /Zc:forScope /FAcs /Fa"E:\Visual Studio\Projects\Programs\64sh\AsmTest\\Bin\Release\x64\\" /Fo"E:\Visual Studio\Projects\Programs\64sh\AsmTest\\Bin\Release\x64\\" /Fd"E:\Visual Studio\Projects\Programs\64sh\AsmTest\\Bin\Release\x64\vc100.pdb" /Gd /TC /errorReport:prompt Main.c
+         Main.c
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Visual Studio\Projects\Programs\64sh\AsmTest\\Bin\Release\x64\AsmTest.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"E:\Visual Studio\Projects\Programs\64sh\AsmTest\\Bin\Release\x64\AsmTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"E:\Visual Studio\Projects\Programs\64sh\AsmTest\Bin\Release\x64\AsmTest.pdb" /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Visual Studio\Projects\Programs\64sh\AsmTest\\Bin\Release\x64\AsmTest.lib" /MACHINE:X64 "E:\Visual Studio\Projects\Programs\64sh\AsmTest\\Bin\Release\x64\Main.obj"
+         Génération de code en cours
+         Fin de la génération du code
+         AsmTest.vcxproj -> E:\Visual Studio\Projects\Programs\64sh\AsmTest\\Bin\Release\x64\AsmTest.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Visual Studio\Projects\Programs\64sh\AsmTest\\Bin\Release\x64\AsmTest.exe;#1" /manifest "E:\Visual Studio\Projects\Programs\64sh\AsmTest\\Bin\Release\x64\AsmTest.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Suppression du fichier "E:\Visual Studio\Projects\Programs\64sh\AsmTest\\Bin\Release\x64\AsmTest.unsuccessfulbuild".
+         Mise à jour de l'horodatage "E:\Visual Studio\Projects\Programs\64sh\AsmTest\\Bin\Release\x64\AsmTest.lastbuildstate".
+     1>Génération du projet "E:\Visual Studio\Projects\Programs\64sh\AsmTest\AsmTest.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.68
